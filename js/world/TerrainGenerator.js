@@ -1,4 +1,4 @@
-import { SimplexNoise } from 'https://cdn.jsdelivr.net/npm/simplex-noise@2.4.0/simplex-noise.js';
+import SimplexNoise from 'https://cdn.jsdelivr.net/npm/simplex-noise@2.4.0/simplex-noise.js';
 
 export class TerrainGenerator {
     constructor(world) {
